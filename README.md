@@ -1,4 +1,6 @@
 # Google Translate with Shortcut
+
+This is for use with Mac OSX.
  
 It is really difficult to translate messages in applications other than chrome as you will need to copy each message, move to browser and translate it.
 
