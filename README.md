@@ -5,7 +5,7 @@ It is really difficult to translate messages in applications other than chrome a
 To make life easy with translation, I created a automator script which translates the selected text to english without worrying about flooding slack if you use zapier to translate stuff. I was inspired by this [article](https://filipmolcik.com/right-click-to-translate-with-google-translator/).
 
 ### Setup
-- Download this file: **[Automation Script](https://drive.google.com/open?id=1czeqi_G5GF_khu_y2IJ-7bV8sYl57hYz)**
+- Clone this repository.
 - Install `Translate with Google.workflow`
 
 ### To Translate Text:
