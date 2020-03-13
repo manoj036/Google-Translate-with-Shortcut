@@ -16,7 +16,7 @@ To make life easy with translation, I created a automator script which translate
 - Go to Services.
 - Translate with Google.
 
-###To Add Shortcut to translate text:
+### To Add Shortcut to translate text:
 - Go to System Preferences.
 - Keyboard.
 - Shortcuts.
@@ -24,6 +24,6 @@ To make life easy with translation, I created a automator script which translate
 - Search for `Translate with Google`.
 - Set up the needed shortcut.
 
-###To use shortcut
+### To use shortcut
 - Select some text.
 - Press the shortcut.
